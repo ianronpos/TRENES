@@ -84,11 +84,6 @@ public class TrayectoTrenImpl implements TrayectoTren {
 		
 	}
 
-	@Override
-	public int compareTo(TrayectoTren o) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
 
 	@Override
 	public List<LocalTime> getHorasSalida() {
