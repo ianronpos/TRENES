@@ -1,0 +1,8 @@
+/bin/
+# Archivos y carpetas especificas de Eclipse/Java
+.settings/
+.classpath
+.project
+
+# Evitar que el propio .gitignore sea ignorado accidentalmente
+!.gitignore
