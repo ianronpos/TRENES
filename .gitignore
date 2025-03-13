@@ -1,6 +1,8 @@
 # Ignorar todo por defecto
 *
+
 # Permitir archivos y carpetas específicos
 !.gitignore
 !README.md
 !src/
+!src/**  # Permitir todos los archivos y subcarpetas dentro de src
