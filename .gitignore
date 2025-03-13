@@ -1,8 +1,6 @@
-/bin/
-# Archivos y carpetas especificas de Eclipse/Java
-.settings/
-.classpath
-.project
-
-# Evitar que el propio .gitignore sea ignorado accidentalmente
+# Ignorar todo por defecto
+*
+# Permitir archivos y carpetas específicos
 !.gitignore
+!README.md
+!src/
